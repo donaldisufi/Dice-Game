@@ -1,0 +1,197 @@
+html,
+body {
+    height: 100%;
+    background-color: darkslategray;
+    overflow-x: hidden;
+    overflow-y: hidden;
+
+}
+
+#head {
+    height: 80px;
+
+    margin-top: 20px;
+}
+
+#lefthead {
+    height: 80px;
+}
+
+#righthead {
+    height: 80px;
+}
+
+#left {
+    height: 600px;
+
+    margin-top: 0px;
+}
+
+#midd {
+    height: 600px;
+    background-color: azure;
+    margin-top: 0px;
+
+}
+
+#right {
+    height: 600px;
+   
+    margin-top: 0px;
+}
+
+#title {
+
+    height: 50px;
+}
+
+#btn {
+    margin-left: 400px;
+}
+
+#left6 {
+    height: 100%;
+    background : gray;
+}
+
+#right6 {
+    height: 100%;
+    background :gray   ;
+}
+
+#p1top {
+    height: 50%;
+
+}
+
+#p1bottom {
+    height: 50%;
+
+}
+
+#p2top {
+    height: 50%;
+}
+
+p2bottom {
+    height: 50%;
+}
+
+#h1 {
+    font-weight: normal;
+    font-size: 40px;
+    margin-left: 120px;
+    margin-top: 80px;
+}
+
+#resultp1 {
+    margin-left: 200px;
+    margin-top: 10px;
+    font-size: 50px;
+    font-weight: normal;
+
+}
+
+#resultp2 {
+    margin-left: 150px;
+    margin-top: 10px;
+    font-size: 50px;
+    font-weight: normal;
+}
+
+.kuti {
+    height: 150px;
+    width: 220px;
+    background-color: darkred;
+    margin-left: 120px;
+    margin-top: 10px;
+    margin-bottom: 100px;
+    padding-left: 50px;
+    padding-top: 30px;
+    border-radius: 10%;
+}
+
+.kuti2 {
+    height: 150px;
+    width: 220px;
+    background-color: darkred;
+    margin-top: 10px;
+    margin-left: 60px;
+    margin-bottom: 100px;
+    padding-left: 50px;
+    padding-top: 30px;
+    border-radius: 10%;
+}
+
+#h2 {
+    margin-top: 80px;
+    font-weight: normal;
+    margin-left: 100px;
+
+}
+
+#res {
+    font-size: 25px;
+    color: white;
+    margin-left: 20px;
+    font-weight: normal;
+}
+
+#resulthold2 {
+    font-weight: normal;
+    font-size: 26px;
+    color: white;
+    margin-left: 45px;
+}
+
+#res1 {
+    font-size: 25px;
+    color: white;
+    margin-left: 20px;
+    font-weight: normal;
+}
+
+#resultholdp1 {
+    font-weight: normal;
+    font-size: 26px;
+    color: white;
+    margin-left: 45px;
+}
+
+#new {
+    margin-top: 20px;
+    margin-left: 14px;
+    padding: 15px;
+    border-radius: 10%;
+
+}
+
+#img {
+   height: 100%;
+   width: 100%:
+}
+#imgdiv {
+    height: 130px;
+    width: 130px;
+    margin-top: 150px;
+    margin-left: 10px;
+
+}
+
+#roll {
+    height: 50px;
+    margin-top: 20px;
+    margin-left: 2px;
+}
+
+#holdp1{
+    margin-top: 10px;
+
+}
+#holdp2 {
+    margin-top: 10px;
+}
+a {
+    text-decoration: none;
+    color: black;
+}
